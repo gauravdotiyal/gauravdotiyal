@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Dotiayl</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Dotiyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdotiyal&label=Profile%20views&color=0e75b6&style=flat" alt="gauravdotiyal" /> </p>

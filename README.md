@@ -48,9 +48,9 @@
 <br>
 <div align=center>
   <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravdotiyal)](https://git.io/streak-stats)" alt="streak stats"/>
-  <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)" alt="readme stats" />
+  <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravdotiyal&theme=dark)](https://git.io/streak-stats)" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)" alt="top langs" />
+  <img width=325 align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravdotiyal&theme=dark)](https://git.io/streak-stats)" alt="top langs" />
 </div>
 
 <br/><br/>

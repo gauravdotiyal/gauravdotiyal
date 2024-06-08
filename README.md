@@ -46,12 +46,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-gauravdotiyal.vercel.app/?user=gauravdotiyal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-gauravdotiyal.vercel.app/api?username=gauravdotiyal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-gauravdotiyal.vercel.app/api/top-langs/?username=gauravdotiyal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="center">
+<a href="https://github.com/gauravdotiyal/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdotiyal&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
+<a href="https://github.com/gauravdotiyal/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravdotiyal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
+<a href="https://github.com/gauravdotiyal/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdotiyal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
+ </p>
 
 <br/><br/>
 

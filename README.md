@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **nodejs**
  
- 🌱 I’m currently learning **node.js**
+ 🌱 I’m currently learning **Next.js**
 
-💬 Ask me about **React, Firebase, Javascript, Typescript**
+💬 Ask me about **React, Node.js, Javascript, Typescript**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Sometimes, Debugging Becomes Self-Reflection**
 
  </div>
  

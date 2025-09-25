@@ -16,7 +16,7 @@
 - 📦 [Linux](https://www.linux.com/) / [vscode](https://code.visualstudio.com) / [brave](https://brave.com/)
 - 🌱 Exploring new opportunities in tech!
 - 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
-- 📌 Most active on [kaustavxg](https://github.com/gauravdotiyal)
+- 📌 Most active on [gauravdotiyal](https://github.com/gauravdotiyal)
 
  
  
@@ -46,11 +46,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/gauravdotiyal/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdotiyal&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
 <a href="https://github.com/gauravdotiyal/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravdotiyal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
 <a href="https://github.com/gauravdotiyal/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdotiyal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
- </p>
+ </p> -->
 
 <br/><br/>
 

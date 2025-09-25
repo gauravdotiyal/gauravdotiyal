@@ -8,17 +8,17 @@
 
 <br/>
 
-<div align="center">
+<img align="right" width="50%" src="https://streak-stats.demolab.com/?user=gauravdotiyal&theme=merko&hide_border=true">
  
- 🔭 I’m currently working on **nodejs**
  
- 🌱 I’m currently learning **Next.js**
+- 💻 Full Stack Dev in progress
+- ✏️ JavaScript 
+- 📦 [Linux](https://www.linux.com/) / [vscode](https://code.visualstudio.com) / [brave](https://brave.com/)
+- 🌱 Exploring new opportunities in tech!
+- 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
+- 📌 Most active on [kaustavxg](https://github.com/gauravdotiyal)
 
-💬 Ask me about **React, Node.js, Javascript, Typescript**
-
-⚡ Fun fact **Sometimes, Debugging Becomes Self-Reflection**
-
- </div>
+ 
  
 <div align="center"> 
   <a href="mailto:gauravdotiyal33@gmail.com">

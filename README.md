@@ -70,8 +70,8 @@
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdotiyal&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
 
 
-<div align="center">
+<!-- <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+</div> -->
 
 <br/>

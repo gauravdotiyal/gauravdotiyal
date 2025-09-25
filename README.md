@@ -22,7 +22,7 @@
 
  
  
-<div align="center"> 
+<div > 
   <a href="mailto:gauravdotiyal33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://twitter.com/Dotiyal_Gaurav" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -58,6 +58,13 @@
 
 <hr/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
+</picture>
 <br/>
 
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdotiyal&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

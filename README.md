@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravdotiyal.gauravdotiyal" />
 
-<!-- <h1 align="center">
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Dotiyal!;" />
-</h1> -->
+</h1>  
 
-![Kaustav Banner](gauravdotiyal.png)
+ 
 
-<h3 align="center">A passionate software developer from INDIA</h3>
+<!-- <h3 align="center">A passionate software developer from INDIA</h3> -->
 
 <br/>
 
-<img align="right" width="50%" src="https://streak-stats.demolab.com/?user=gauravdotiyal&theme=merko&hide_border=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gauravdotiyal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px">
  
  
 - 💻 Full Stack Dev in progress

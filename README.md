@@ -20,20 +20,6 @@
 - 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
 - 📌 Most active on [gauravdotiyal](https://github.com/gauravdotiyal)
 
- 
- 
-<div > 
-  <a href="mailto:gauravdotiyal33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-dotiyal-a93541255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://twitter.com/Dotiyal_Gaurav" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -46,7 +32,20 @@
 <br/>
 <hr/> 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Contacts ⚡</h2>
+
+<div align="center> 
+  <a href="mailto:gauravdotiyal33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-dotiyal-a93541255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/Dotiyal_Gaurav" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <br>
 <!-- <p align="center">
 <a href="https://github.com/gauravdotiyal/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdotiyal&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
@@ -60,11 +59,11 @@
 
 <br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
-</picture>
+</picture> -->
 <br/>
 
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdotiyal&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

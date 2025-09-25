@@ -13,13 +13,13 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gauravdotiyal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px">
  
  
-- 💻 Full Stack Dev in progress
+- 💻 Full Stack Dev 
 - ✏️ JavaScript 
 - 📦 [Linux](https://www.linux.com/) / [vscode](https://code.visualstudio.com) / [brave](https://brave.com/)
 - 🌱 Exploring new opportunities in tech!
 - 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
 - 📌 Most active on [gauravdotiyal](https://github.com/gauravdotiyal)
-
+- 💻 Currently Exploring Devops 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -34,7 +34,7 @@
 
 <h2 align="center">⚡ Contacts ⚡</h2>
 
-<div align="center> 
+<div align="center" > 
   <a href="mailto:gauravdotiyal33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>

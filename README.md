@@ -53,18 +53,18 @@
 <a href="https://github.com/gauravdotiyal/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdotiyal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
  </p> -->
 
-<br/><br/>
+<!-- <br/><br/>
 
 <hr/>
 
-<br/>
+<br/> -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
 </picture> -->
-<br/>
+<!-- <br/> -->
 
 <!--
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdotiyal&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
@@ -74,4 +74,4 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div> -->
 
-<br/>
+<!-- <br/> -->

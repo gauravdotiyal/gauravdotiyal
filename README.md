@@ -8,7 +8,7 @@
 
 <!-- <h3 align="center">A passionate software developer from INDIA</h3> -->
 
-<br/>
+<!-- <br/>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gauravdotiyal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px">
  
@@ -44,7 +44,7 @@
   <a href="https://twitter.com/Dotiyal_Gaurav" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-</div>
+</div> -->
 
 <!-- <br> -->
 <!-- <p align="center">

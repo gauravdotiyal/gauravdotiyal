@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-
 
 ### Hello there 👋
 
@@ -46,11 +44,13 @@ Full-Stack Developer at Prime Media;<br>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,cpp" /><br>
 </div>
 
-<!-- <br/>
+ <br/>
+
+<img src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/master/github-snake-dark.svg" />
 <hr/> 
 
 
-<h2 align="center">⚡ Contacts ⚡</h2>
+<!-- <h2 align="center">⚡ Contacts ⚡</h2>
 
 <div align="center" > 
   <a href="mailto:gauravdotiyal33@gmail.com">
@@ -78,13 +78,13 @@ Full-Stack Developer at Prime Media;<br>
 <br/> -->
 
  
-<picture>
+<!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
 </picture> 
  
-<!-- <br/> -->
+<br/> -->
 
 <!--
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravdotiyal&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->

@@ -1,12 +1,28 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravdotiyal.gauravdotiyal" />
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
-  <h1 align="center">
+
+### Hello there 👋
+
+#### A Full-Stack Developer by day ☼ and a Night Owl Developer by night ☾
+
+Full-Stack Developer at Prime Media;<br> 
+
+- ⚙️ I use daily: `node.js`, `react.js`, `.js`, `.css`, `.env`, `.svg`, `.ai`
+- 🌍 I'm mostly active within the **Developer Community**
+- 💬 `ping` me about **Backend**, **UI**, **Node**, **development**, **design thinking** **Tech**
+- 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
+- 💻 Currently Exploring Devops 
+
+
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravdotiyal.gauravdotiyal" />
+ 
+<!--  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Dotiyal!;" />
 </h1>  
-
+-->
  
 
-<!-- <h3 align="center">A passionate software developer from INDIA</h3> -->
+ <!-- <h3 align="center">A passionate software developer from INDIA</h3> -->
 
 <!-- <br/>
 
@@ -17,20 +33,22 @@
 - ✏️ JavaScript 
 - 📦 [Linux](https://www.linux.com/) / [vscode](https://code.visualstudio.com) / [brave](https://brave.com/)
 - 🌱 Exploring new opportunities in tech!
-- 💭 Ask me anything at [Twitter](https://x.com/Dotiyal_Gaurav)!
 - 📌 Most active on [gauravdotiyal](https://github.com/gauravdotiyal)
 - 💻 Currently Exploring Devops 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+ -->
+ <br/>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+ <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,nodejs" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,cpp" /><br>
 </div>
 
-<br/>
+<!-- <br/>
 <hr/> 
+
 
 <h2 align="center">⚡ Contacts ⚡</h2>
 
@@ -59,11 +77,13 @@
 
 <br/> -->
 
-<!-- <picture>
+ 
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gauravdotiyal/gauravdotiyal/output/github-snake.svg" />
-</picture> -->
+</picture> 
+ 
 <!-- <br/> -->
 
 <!--

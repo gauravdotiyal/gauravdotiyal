@@ -1,3 +1,4 @@
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/b6911eee-ffbb-47d5-a378-335eff1d3b04" />
 
 ### Hello there 👋
 
@@ -14,10 +15,8 @@ Full-Stack Developer at Prime Media;<br>
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravdotiyal.gauravdotiyal" />
  
-<!--  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav+Dotiyal!;" />
-</h1>  
--->
+   
+ 
  
 
  <!-- <h3 align="center">A passionate software developer from INDIA</h3> -->

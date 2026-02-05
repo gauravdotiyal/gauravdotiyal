@@ -9,7 +9,7 @@ Full-Stack Developer at Prime Media;<br>
 - ⚙️ I use daily: `node.js`, `react.js`, `.js`, `.css`, `.env`, `.svg`, `.ai`
 - 🌍 I'm mostly active within the **Developer Community**
 - 💬 `ping` me about **Backend**, **UI**, **Node**, **development**, **design thinking** **Tech**
-- 💭 Ask me anything at [X](https://x.com/Dotiyal_Gaurav)!
+- 💭 Ask me anything at [X](https://x.com/Dotiyal_Gaurav)
 - 💻 Currently Exploring AI 
 
 
